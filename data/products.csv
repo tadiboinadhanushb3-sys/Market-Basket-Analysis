@@ -1,151 +1,201 @@
-Product_ID,Product_Name,Category,Price
-P001,Meat Item 1,Meat,30.32
-P002,Beverages Item 2,Beverages,37.42
-P003,Snacks Item 3,Snacks,41.61
-P004,Frozen Item 4,Frozen,18.99
-P005,Canned Goods Item 5,Canned Goods,25.32
-P006,Snacks Item 6,Snacks,10.67
-P007,Beverages Item 7,Beverages,36.4
-P008,Produce Item 8,Produce,14.5
-P009,Dairy Item 9,Dairy,4.21
-P010,Produce Item 10,Produce,24.84
-P011,Meat Item 11,Meat,5.09
-P012,Produce Item 12,Produce,10.74
-P013,Bakery Item 13,Bakery,33.05
-P014,Frozen Item 14,Frozen,5.39
-P015,Beverages Item 15,Beverages,10.31
-P016,Snacks Item 16,Snacks,43.61
-P017,Frozen Item 17,Frozen,46.06
-P018,Frozen Item 18,Frozen,1.07
-P019,Canned Goods Item 19,Canned Goods,40.91
-P020,Canned Goods Item 20,Canned Goods,38.46
-P021,Meat Item 21,Meat,17.62
-P022,Snacks Item 22,Snacks,28.61
-P023,Beverages Item 23,Beverages,33.24
-P024,Bakery Item 24,Bakery,27.39
-P025,Meat Item 25,Meat,35.36
-P026,Produce Item 26,Produce,38.56
-P027,Frozen Item 27,Frozen,24.79
-P028,Produce Item 28,Produce,5.31
-P029,Canned Goods Item 29,Canned Goods,17.42
-P030,Beverages Item 30,Beverages,43.95
-P031,Produce Item 31,Produce,14.86
-P032,Canned Goods Item 32,Canned Goods,11.38
-P033,Snacks Item 33,Snacks,48.58
-P034,Beverages Item 34,Beverages,9.19
-P035,Snacks Item 35,Snacks,33.4
-P036,Frozen Item 36,Frozen,24.46
-P037,Meat Item 37,Meat,25.98
-P038,Produce Item 38,Produce,37.78
-P039,Canned Goods Item 39,Canned Goods,6.7
-P040,Canned Goods Item 40,Canned Goods,37.15
-P041,Beverages Item 41,Beverages,7.3
-P042,Canned Goods Item 42,Canned Goods,14.3
-P043,Meat Item 43,Meat,40.54
-P044,Snacks Item 44,Snacks,12.48
-P045,Produce Item 45,Produce,40.66
-P046,Produce Item 46,Produce,9.64
-P047,Produce Item 47,Produce,24.66
-P048,Meat Item 48,Meat,19.84
-P049,Snacks Item 49,Snacks,45.35
-P050,Snacks Item 50,Snacks,6.7
-P051,Dairy Item 51,Dairy,1.54
-P052,Dairy Item 52,Dairy,12.3
-P053,Canned Goods Item 53,Canned Goods,15.15
-P054,Produce Item 54,Produce,8.66
-P055,Meat Item 55,Meat,24.36
-P056,Beverages Item 56,Beverages,32.4
-P057,Beverages Item 57,Beverages,46.1
-P058,Snacks Item 58,Snacks,24.19
-P059,Beverages Item 59,Beverages,42.49
-P060,Dairy Item 60,Dairy,41.19
-P061,Produce Item 61,Produce,28.98
-P062,Produce Item 62,Produce,2.66
-P063,Dairy Item 63,Dairy,15.13
-P064,Beverages Item 64,Beverages,41.31
-P065,Produce Item 65,Produce,14.11
-P066,Snacks Item 66,Snacks,30.16
-P067,Meat Item 67,Meat,28.89
-P068,Meat Item 68,Meat,48.4
-P069,Canned Goods Item 69,Canned Goods,19.44
-P070,Bakery Item 70,Bakery,32.14
-P071,Frozen Item 71,Frozen,12.88
-P072,Dairy Item 72,Dairy,22.66
-P073,Beverages Item 73,Beverages,22.05
-P074,Snacks Item 74,Snacks,14.36
-P075,Produce Item 75,Produce,29.57
-P076,Bakery Item 76,Bakery,32.21
-P077,Beverages Item 77,Beverages,17.86
-P078,Bakery Item 78,Bakery,16.31
-P079,Snacks Item 79,Snacks,1.73
-P080,Canned Goods Item 80,Canned Goods,8.41
-P081,Produce Item 81,Produce,37.88
-P082,Beverages Item 82,Beverages,28.23
-P083,Dairy Item 83,Dairy,39.03
-P084,Snacks Item 84,Snacks,45.23
-P085,Snacks Item 85,Snacks,26.29
-P086,Meat Item 86,Meat,3.02
-P087,Beverages Item 87,Beverages,11.39
-P088,Frozen Item 88,Frozen,9.18
-P089,Dairy Item 89,Dairy,34.62
-P090,Meat Item 90,Meat,45.72
-P091,Meat Item 91,Meat,40.35
-P092,Beverages Item 92,Beverages,22.82
-P093,Meat Item 93,Meat,24.28
-P094,Frozen Item 94,Frozen,33.85
-P095,Beverages Item 95,Beverages,49.25
-P096,Bakery Item 96,Bakery,15.66
-P097,Bakery Item 97,Bakery,7.77
-P098,Produce Item 98,Produce,4.0
-P099,Canned Goods Item 99,Canned Goods,16.74
-P100,Frozen Item 100,Frozen,45.09
-P101,Snacks Item 101,Snacks,2.22
-P102,Frozen Item 102,Frozen,33.64
-P103,Meat Item 103,Meat,47.07
-P104,Frozen Item 104,Frozen,48.47
-P105,Meat Item 105,Meat,1.99
-P106,Snacks Item 106,Snacks,10.42
-P107,Beverages Item 107,Beverages,9.14
-P108,Snacks Item 108,Snacks,49.06
-P109,Produce Item 109,Produce,38.64
-P110,Bakery Item 110,Bakery,46.38
-P111,Meat Item 111,Meat,30.39
-P112,Dairy Item 112,Dairy,5.56
-P113,Dairy Item 113,Dairy,49.62
-P114,Bakery Item 114,Bakery,2.56
-P115,Meat Item 115,Meat,11.17
-P116,Produce Item 116,Produce,1.08
-P117,Produce Item 117,Produce,30.4
-P118,Canned Goods Item 118,Canned Goods,49.49
-P119,Frozen Item 119,Frozen,23.54
-P120,Beverages Item 120,Beverages,5.15
-P121,Canned Goods Item 121,Canned Goods,34.99
-P122,Frozen Item 122,Frozen,49.79
-P123,Canned Goods Item 123,Canned Goods,48.99
-P124,Canned Goods Item 124,Canned Goods,13.4
-P125,Snacks Item 125,Snacks,19.19
-P126,Bakery Item 126,Bakery,49.68
-P127,Beverages Item 127,Beverages,19.86
-P128,Bakery Item 128,Bakery,23.29
-P129,Canned Goods Item 129,Canned Goods,19.62
-P130,Frozen Item 130,Frozen,6.23
-P131,Meat Item 131,Meat,37.17
-P132,Meat Item 132,Meat,7.94
-P133,Beverages Item 133,Beverages,38.82
-P134,Bakery Item 134,Bakery,39.32
-P135,Beverages Item 135,Beverages,9.29
-P136,Meat Item 136,Meat,27.21
-P137,Canned Goods Item 137,Canned Goods,16.91
-P138,Snacks Item 138,Snacks,25.27
-P139,Frozen Item 139,Frozen,5.64
-P140,Snacks Item 140,Snacks,9.44
-P141,Snacks Item 141,Snacks,17.37
-P142,Canned Goods Item 142,Canned Goods,38.55
-P143,Beverages Item 143,Beverages,24.83
-P144,Beverages Item 144,Beverages,28.28
-P145,Meat Item 145,Meat,6.73
-P146,Bakery Item 146,Bakery,12.45
-P147,Produce Item 147,Produce,13.22
-P148,Meat Item 148,Meat,10.36
-P149,Snacks Item 149,Snacks,34.14
-P150,Canned Goods Item 150,Canned Goods,2.13
+Product_ID,Product_Name,Category,Unit_Price
+P001,Produce Item 1,Produce,4.23
+P002,Meat Item 2,Meat,56.0
+P003,Electronics Item 3,Electronics,139.13
+P004,Beverages Item 4,Beverages,14.48
+P005,Produce Item 5,Produce,2.2
+P006,Snacks Item 6,Snacks,4.0
+P007,Electronics Item 7,Electronics,291.29
+P008,Dairy Item 8,Dairy,10.16
+P009,Electronics Item 9,Electronics,456.35
+P010,Bakery Item 10,Bakery,9.08
+P011,Home & Kitchen Item 11,Home & Kitchen,129.88
+P012,Produce Item 12,Produce,7.75
+P013,Snacks Item 13,Snacks,2.63
+P014,Home & Kitchen Item 14,Home & Kitchen,84.29
+P015,Produce Item 15,Produce,2.03
+P016,Produce Item 16,Produce,3.96
+P017,Meat Item 17,Meat,17.13
+P018,Electronics Item 18,Electronics,242.02
+P019,Produce Item 19,Produce,4.46
+P020,Dairy Item 20,Dairy,3.09
+P021,Bakery Item 21,Bakery,6.72
+P022,Meat Item 22,Meat,44.81
+P023,Electronics Item 23,Electronics,323.26
+P024,Bakery Item 24,Bakery,9.45
+P025,Canned Goods Item 25,Canned Goods,9.86
+P026,Home & Kitchen Item 26,Home & Kitchen,141.51
+P027,Frozen Item 27,Frozen,10.97
+P028,Canned Goods Item 28,Canned Goods,5.44
+P029,Dairy Item 29,Dairy,7.98
+P030,Snacks Item 30,Snacks,4.48
+P031,Canned Goods Item 31,Canned Goods,8.71
+P032,Canned Goods Item 32,Canned Goods,4.43
+P033,Dairy Item 33,Dairy,6.07
+P034,Snacks Item 34,Snacks,5.62
+P035,Canned Goods Item 35,Canned Goods,6.09
+P036,Home & Kitchen Item 36,Home & Kitchen,112.23
+P037,Dairy Item 37,Dairy,8.73
+P038,Meat Item 38,Meat,10.58
+P039,Meat Item 39,Meat,29.7
+P040,Bakery Item 40,Bakery,2.38
+P041,Dairy Item 41,Dairy,4.32
+P042,Bakery Item 42,Bakery,2.99
+P043,Canned Goods Item 43,Canned Goods,11.1
+P044,Electronics Item 44,Electronics,53.42
+P045,Produce Item 45,Produce,7.73
+P046,Dairy Item 46,Dairy,9.12
+P047,Snacks Item 47,Snacks,3.21
+P048,Meat Item 48,Meat,16.28
+P049,Meat Item 49,Meat,31.92
+P050,Home & Kitchen Item 50,Home & Kitchen,134.04
+P051,Home & Kitchen Item 51,Home & Kitchen,117.64
+P052,Snacks Item 52,Snacks,3.78
+P053,Dairy Item 53,Dairy,14.65
+P054,Home & Kitchen Item 54,Home & Kitchen,138.69
+P055,Snacks Item 55,Snacks,6.1
+P056,Meat Item 56,Meat,50.4
+P057,Beverages Item 57,Beverages,24.22
+P058,Snacks Item 58,Snacks,7.94
+P059,Bakery Item 59,Bakery,6.58
+P060,Snacks Item 60,Snacks,2.85
+P061,Meat Item 61,Meat,53.57
+P062,Produce Item 62,Produce,7.92
+P063,Dairy Item 63,Dairy,6.87
+P064,Electronics Item 64,Electronics,263.66
+P065,Frozen Item 65,Frozen,20.11
+P066,Home & Kitchen Item 66,Home & Kitchen,85.39
+P067,Produce Item 67,Produce,2.91
+P068,Home & Kitchen Item 68,Home & Kitchen,24.73
+P069,Bakery Item 69,Bakery,7.18
+P070,Frozen Item 70,Frozen,10.97
+P071,Dairy Item 71,Dairy,4.0
+P072,Canned Goods Item 72,Canned Goods,5.27
+P073,Snacks Item 73,Snacks,7.52
+P074,Meat Item 74,Meat,42.78
+P075,Bakery Item 75,Bakery,7.49
+P076,Meat Item 76,Meat,41.84
+P077,Canned Goods Item 77,Canned Goods,7.84
+P078,Frozen Item 78,Frozen,10.53
+P079,Home & Kitchen Item 79,Home & Kitchen,28.73
+P080,Canned Goods Item 80,Canned Goods,2.44
+P081,Meat Item 81,Meat,21.2
+P082,Home & Kitchen Item 82,Home & Kitchen,36.1
+P083,Electronics Item 83,Electronics,188.82
+P084,Canned Goods Item 84,Canned Goods,8.47
+P085,Meat Item 85,Meat,15.54
+P086,Meat Item 86,Meat,47.12
+P087,Meat Item 87,Meat,24.76
+P088,Home & Kitchen Item 88,Home & Kitchen,69.42
+P089,Beverages Item 89,Beverages,16.22
+P090,Electronics Item 90,Electronics,80.92
+P091,Meat Item 91,Meat,29.89
+P092,Snacks Item 92,Snacks,8.95
+P093,Home & Kitchen Item 93,Home & Kitchen,120.73
+P094,Home & Kitchen Item 94,Home & Kitchen,134.79
+P095,Produce Item 95,Produce,4.42
+P096,Bakery Item 96,Bakery,7.46
+P097,Electronics Item 97,Electronics,258.2
+P098,Electronics Item 98,Electronics,416.01
+P099,Beverages Item 99,Beverages,12.72
+P100,Frozen Item 100,Frozen,21.03
+P101,Electronics Item 101,Electronics,167.79
+P102,Bakery Item 102,Bakery,4.59
+P103,Frozen Item 103,Frozen,5.53
+P104,Bakery Item 104,Bakery,9.78
+P105,Produce Item 105,Produce,7.38
+P106,Canned Goods Item 106,Canned Goods,8.5
+P107,Beverages Item 107,Beverages,4.75
+P108,Snacks Item 108,Snacks,6.1
+P109,Electronics Item 109,Electronics,138.38
+P110,Beverages Item 110,Beverages,19.29
+P111,Snacks Item 111,Snacks,12.62
+P112,Bakery Item 112,Bakery,4.3
+P113,Snacks Item 113,Snacks,6.99
+P114,Bakery Item 114,Bakery,9.28
+P115,Home & Kitchen Item 115,Home & Kitchen,16.9
+P116,Bakery Item 116,Bakery,9.03
+P117,Frozen Item 117,Frozen,22.11
+P118,Snacks Item 118,Snacks,8.87
+P119,Bakery Item 119,Bakery,9.75
+P120,Meat Item 120,Meat,45.6
+P121,Meat Item 121,Meat,56.59
+P122,Canned Goods Item 122,Canned Goods,3.98
+P123,Bakery Item 123,Bakery,6.03
+P124,Meat Item 124,Meat,11.35
+P125,Electronics Item 125,Electronics,484.55
+P126,Bakery Item 126,Bakery,3.52
+P127,Electronics Item 127,Electronics,54.15
+P128,Snacks Item 128,Snacks,9.1
+P129,Beverages Item 129,Beverages,11.95
+P130,Snacks Item 130,Snacks,12.24
+P131,Home & Kitchen Item 131,Home & Kitchen,142.4
+P132,Frozen Item 132,Frozen,9.51
+P133,Produce Item 133,Produce,3.68
+P134,Home & Kitchen Item 134,Home & Kitchen,59.24
+P135,Produce Item 135,Produce,5.06
+P136,Snacks Item 136,Snacks,13.74
+P137,Produce Item 137,Produce,7.43
+P138,Bakery Item 138,Bakery,8.48
+P139,Dairy Item 139,Dairy,14.62
+P140,Meat Item 140,Meat,44.9
+P141,Meat Item 141,Meat,38.45
+P142,Produce Item 142,Produce,1.82
+P143,Produce Item 143,Produce,6.8
+P144,Snacks Item 144,Snacks,13.69
+P145,Canned Goods Item 145,Canned Goods,3.3
+P146,Bakery Item 146,Bakery,3.69
+P147,Bakery Item 147,Bakery,5.54
+P148,Home & Kitchen Item 148,Home & Kitchen,41.24
+P149,Frozen Item 149,Frozen,25.64
+P150,Canned Goods Item 150,Canned Goods,5.8
+P151,Home & Kitchen Item 151,Home & Kitchen,135.09
+P152,Bakery Item 152,Bakery,8.37
+P153,Produce Item 153,Produce,4.44
+P154,Dairy Item 154,Dairy,11.21
+P155,Home & Kitchen Item 155,Home & Kitchen,22.9
+P156,Frozen Item 156,Frozen,10.38
+P157,Frozen Item 157,Frozen,26.63
+P158,Beverages Item 158,Beverages,2.73
+P159,Dairy Item 159,Dairy,11.5
+P160,Frozen Item 160,Frozen,13.21
+P161,Electronics Item 161,Electronics,106.8
+P162,Home & Kitchen Item 162,Home & Kitchen,52.27
+P163,Meat Item 163,Meat,27.26
+P164,Dairy Item 164,Dairy,12.91
+P165,Meat Item 165,Meat,56.6
+P166,Produce Item 166,Produce,4.37
+P167,Electronics Item 167,Electronics,397.84
+P168,Bakery Item 168,Bakery,2.11
+P169,Beverages Item 169,Beverages,21.3
+P170,Bakery Item 170,Bakery,9.83
+P171,Dairy Item 171,Dairy,5.06
+P172,Produce Item 172,Produce,5.77
+P173,Canned Goods Item 173,Canned Goods,8.31
+P174,Produce Item 174,Produce,4.11
+P175,Canned Goods Item 175,Canned Goods,2.09
+P176,Produce Item 176,Produce,7.14
+P177,Dairy Item 177,Dairy,5.0
+P178,Frozen Item 178,Frozen,21.17
+P179,Bakery Item 179,Bakery,4.49
+P180,Electronics Item 180,Electronics,346.68
+P181,Canned Goods Item 181,Canned Goods,9.97
+P182,Dairy Item 182,Dairy,11.84
+P183,Dairy Item 183,Dairy,7.62
+P184,Canned Goods Item 184,Canned Goods,5.24
+P185,Beverages Item 185,Beverages,23.07
+P186,Snacks Item 186,Snacks,10.49
+P187,Produce Item 187,Produce,1.63
+P188,Canned Goods Item 188,Canned Goods,8.52
+P189,Dairy Item 189,Dairy,5.11
+P190,Snacks Item 190,Snacks,9.54
+P191,Bakery Item 191,Bakery,7.56
+P192,Home & Kitchen Item 192,Home & Kitchen,103.29
+P193,Bakery Item 193,Bakery,7.17
+P194,Snacks Item 194,Snacks,12.45
+P195,Canned Goods Item 195,Canned Goods,5.12
+P196,Frozen Item 196,Frozen,9.23
+P197,Home & Kitchen Item 197,Home & Kitchen,80.93
+P198,Meat Item 198,Meat,25.71
+P199,Home & Kitchen Item 199,Home & Kitchen,102.52
+P200,Frozen Item 200,Frozen,21.12
